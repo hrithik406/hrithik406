@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hrithik406
+- 👋 Hi, I’m Hrithik Raj
 - 👀 I’m interested in HTML5
 - 🌱 I’m currently learning HTML5
 - 💞️ I’m looking to collaborate on HTML5
