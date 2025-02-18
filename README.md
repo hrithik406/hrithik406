@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Hrithik Raj
-- 👀 I’m interested in HTML5
-- 🌱 I’m currently learning HTML5
-- 💞️ I’m looking to collaborate on HTML5
-- 📫 How to reach me on HTML5
-- 😄 Pronouns: HTML5
-- ⚡ Fun fact: Only HTML5
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Javascript
+- 📫 How to reach me on Javascript
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Only Javascript
 
 <!---
 hrithik406/hrithik406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
